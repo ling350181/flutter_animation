@@ -1,0 +1,44 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "value_duration",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/value_duration/main.dart",
+        },
+        {
+            "name": "forword",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/function/forword/main.dart",
+        },
+        {
+            "name": "reverse",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/function/reverse/main.dart",
+        },
+        {
+            "name": "repeat",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/function/repeat/main.dart",
+        },
+        {
+            "name": "stop",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/function/stop/main.dart",
+        },
+        {
+            "name": "fling",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/function/fling/main.dart",
+        },
+    ]
+}
