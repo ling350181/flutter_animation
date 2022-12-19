@@ -52,8 +52,6 @@ class _LineAnimState extends State<LineAnim> with SingleTickerProviderStateMixin
             width: 600,
             child: CustomPaint(
               painter: LinePainter(
-                step: 5,
-                span: 5,
                 points: points,
               ),
             ),
